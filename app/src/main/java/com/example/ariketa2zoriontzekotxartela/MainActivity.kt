@@ -31,9 +31,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ZorionakTestua(modifier: Modifier = Modifier) {
-    ZorionakTestua(
 
-    )
 }
 
 @Preview(showBackground = true)
